@@ -1,16 +1,6 @@
-# values:
-#   author: "Kottans.org"
+values:
+  author: "Kottans.org"
 
-#  gems:
-#    - jekyll-assets
-#    - autoprefixer-rails
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-# gems:
-# - jekyll-autoprefixer
-# gems: [jekyll-autoprefixer]
-# 
 group :jekyll_plugins do
   gem "jekyll-autoprefixer"
 end
