@@ -1,0 +1,59 @@
+---
+# Front matter comment to ensure Jekyll properly reads file.
+---
+
+@import "variables";
+@import "base";
+@import "grid";
+
+body {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+.main-header {
+  display: flex;
+  width: 100%;
+  padding: 100px 0;
+}
+
+.main-header__nav {
+  display: flex;
+  li {
+    list-style-type: none;
+    margin: 0 $gutter;
+    a {
+      padding: 5px 10px;
+      border: solid 2px $brand-primary;
+      border-radius: 3px;
+      text-decoration: none;
+      font-weight: 500;
+      transition: background 100ms ease-out, color 100ms ease-out;
+      &:hover {
+        background: $brand-primary;
+        color: #fff;
+      }
+    }
+  }
+}
+
+.main-content {
+  text-align: center;
+  flex: auto;
+}
+
+footer {
+  border-top: solid 2px $brand-default;
+
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  padding: 30px $gutter 50px;
+  ul {
+    li {
+      list-style-type: none;
+    }
+
+  }
+}
