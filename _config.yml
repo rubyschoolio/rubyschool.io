@@ -1,2 +1,6 @@
 values:
-      author: "Kottans.org"
+  author: "Kottans.org"
+
+group :jekyll_plugins do
+  gem "jekyll-autoprefixer"
+end
