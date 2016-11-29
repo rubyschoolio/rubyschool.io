@@ -1,6 +1,7 @@
-# values:
-#   author: "Kottans.org"
+values:
+  author: "Kottans.org"
+sass:
+  sass_dir: public/_scss/
 
-group :jekyll_plugins do
-  gem "jekyll-autoprefixer"
-end
+gems:
+  - jekyll-autoprefixer
