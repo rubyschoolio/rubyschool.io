@@ -2,6 +2,5 @@ values:
   author: "Kottans.org"
 sass:
   sass_dir: public/_scss/
-
 gems:
   - jekyll-autoprefixer
