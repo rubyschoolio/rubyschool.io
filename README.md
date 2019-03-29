@@ -1,7 +1,7 @@
 rubyschool.github.io
 ====================
 
-- On the web: http://rubyschool.co/
+- On the web: http://rubyschool.io/
 - On Gitter: [ruby_school/organizers](https://gitter.im/ruby_school/organizers?utm_source=share-link&utm_medium=link&utm_campaign=share-link)
 
 Yes, it'll be kind of fork of [https://github.com/nodeschool](https://github.com/nodeschool) at first.
