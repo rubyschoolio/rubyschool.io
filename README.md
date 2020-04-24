@@ -2,7 +2,7 @@ rubyschool.github.io
 ====================
 
 - On the web: http://rubyschool.io/
-- [![Discord Chat](https://discordapp.com/api/guilds/547008165066047518/widget.png?style=banner2)](https://discord.gg/hz4WSj)
+[![Discord Chat](https://discordapp.com/api/guilds/547008165066047518/widget.png?style=banner2)](https://discord.gg/hz4WSj)
 
 Yes, it'll be kind of fork of [https://github.com/nodeschool](https://github.com/nodeschool) at first.
 But NodeJS community is doing a great job, we have something to learn from them.
